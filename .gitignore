@@ -38,6 +38,7 @@ out/
 
 ### Claude Code ###
 .claude/
+CLAUDE.md
 
 ### Sensitive files ###
 **/application.yml
@@ -47,3 +48,6 @@ out/
 .env.*
 secrets.yml
 secrets.properties
+
+/docs
+/docs/**
