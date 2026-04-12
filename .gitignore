@@ -36,6 +36,9 @@ out/
 ### VS Code ###
 .vscode/
 
+### QueryDSL ###
+src/main/generated
+
 ### Claude Code ###
 .claude/
 CLAUDE.md
@@ -48,6 +51,7 @@ CLAUDE.md
 .env.*
 secrets.yml
 secrets.properties
+docker-compose.yml
 
 /docs
 /docs/**
